@@ -1,0 +1,3 @@
+//VLOOKUP 
+//used as look up phone 
+//=VLOOKUP(H2,B3:E52,3,FALSE)
